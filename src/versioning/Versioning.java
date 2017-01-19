@@ -12,7 +12,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 /**
- *
+ *Comes from git
  * @author Roger Boza
  */
 public class Versioning {
